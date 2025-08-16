@@ -71,7 +71,7 @@ body{
 
 .text-content {
     position: absolute; /* Новий контейнер для тексту */
-    top: 50px;
+    top: 100px;
     left: 50%;
     transform: translateX(-50%);
     display: flex; /* Використовуємо Flexbox */
@@ -137,4 +137,5 @@ body{
 -webkit-box-shadow: inset 0px 0px 24px 0px rgba(0, 255, 13, 1);
 -moz-box-shadow: inset 0px 0px 24px 0px rgba(0, 255, 13, 1);
 box-shadow: inset 0px 0px 24px 0px rgba(0, 255, 13, 1);
+
 }
